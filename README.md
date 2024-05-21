@@ -1,4 +1,4 @@
-## Hello 👋, I, Heart, The Individual among the Many
+## I, Heart, The Individual among the Many
 </br>
 
 <!--
