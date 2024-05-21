@@ -24,13 +24,13 @@ I recently completed my fourth year studies in Software Engineering at Multimedi
 
 ```javascript
 const KevinMudenge = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
+  lookingFor: "UI/UX Designer" || "Front-end developer" || "Full-stack web developer" || "Mobile Developer",
   pronouns: ["he", "him"],
-  code: ["JavaScript", "HTML/CSS", "Ruby"],
-  challenge: "I am improving my JavaScript skills and picking up TypeScript",
+  code: ["JavaScript", "HTML/CSS", "Dart"],
+  challenge: "I am improving my JavaScript skills, UI/UX Design and picking up Flutter",
   funFacts: [
-    'The only way to learn how to code is by writing more code', 
-    'I watch coding YouTube videos for fun'
+    'The only way to learn how to code is by writing more code and building working real-world projects', 
+    'I watch and code with coding YouTube videos for fun'
   ]
 }
 ```
