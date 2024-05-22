@@ -19,7 +19,9 @@ For me, "heart" represents a deep commitment to solving the real world. Designin
 
 ## Let's Connect
 
-📫 How to reach me: 
+📫 How to reach me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudengekevn254@gmail.com)
 
 ## My Tech Stack
 
@@ -68,6 +70,9 @@ const KevinMudenge = {
 - 🉑 Pronouns: he, him
 
 ## GitHub Stats
+  
+![Kevin Mudenge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinMudenge&show_icons=true&count_private=true&hide=contribs,prs&layout=compact&theme=tokyonight) 
 
-![Kevin Mudenge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinMudenge&show_icons=true&count_private=true&hide=contribs,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kevinMudenge&show_icons=true&locale=en&layout=compact&theme=dark)
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kevinMudenge&show_icons=true&locale=en&&theme=tokyonight)
