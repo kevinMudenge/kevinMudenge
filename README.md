@@ -19,7 +19,7 @@ For me, "heart" represents a deep commitment to solving the real world. Designin
 
 ## Let's Connect
 
-📫 How to reach me: [mudengekevn254@gmail.com](mailto:mudengekevn254@gmail.com)
+📫 How to reach me: 
 
 ## My Tech Stack
 
@@ -42,25 +42,22 @@ const KevinMudenge = {
 
 ### Languages I write in
 
-- JavaScript
-- HTML
-- CSS
-- Dart
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks and Libraries I use
 
-- React
-- Flutter
-- Material UI
-- Typescript
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)|![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### Tools I use
 
-- Git
-- GitHub
-- Figma
-- Slack
-- Visual Studio Code
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ## Fun facts
 - 🔭 I’m currently working on: My skill set as a Mobile and Web Developer pushing the limits to what I can do and how well I can do it.
@@ -73,3 +70,4 @@ const KevinMudenge = {
 ## GitHub Stats
 
 ![Kevin Mudenge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinMudenge&show_icons=true&count_private=true&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kevinMudenge&show_icons=true&locale=en&layout=compact&theme=dark)
