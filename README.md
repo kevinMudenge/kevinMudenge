@@ -3,7 +3,7 @@
 # Hi there! 👋 
 I'm Kevin Mudenge. 
 
-A Front End Web Developer | A Mobile Developer from Kenya.
+A Front End Web Developer | A Budding Mobile Developer from Kenya.
 
 ## About Me
 ### I, Heart: Embracing Individuality in a World of Many
