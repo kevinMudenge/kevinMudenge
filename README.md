@@ -10,6 +10,8 @@ A Front End Web Developer | A Budding Mobile Developer from Kenya.
 
 What do you believe in? What drives you?
 
+Kevin is passionate, an artsy creative with an attention to detail currently working on his Mobile development and UI/UX design skills and its trade secrets. With a firm and ongoing experience in Front End Web Dev. He hopes to someday be a powerhouse in Front-End Web/Mobile Development, User Centered Design principles and to apply all this in his works. 💼
+
 I recently completed my fourth year studies in Software Engineering at Multimedia University, Kenya. I have a great passion for learning languages, frameworks, and staying updated with emerging technologies. In addition to that, I enjoy designing websites, mobile apps, and bringing them to life as envisioned, as warranted. This principle guides my approach to software development, focusing on user-centered design and ensuring that each project reflects the unique needs and experiences of its users.
 
 For me, "heart" represents a deep commitment to solving the real world. Designing <b>websites and mobile apps</b> is not just a profession for me; it's a passion and I particularly enjoy working on solutions.
