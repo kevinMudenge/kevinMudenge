@@ -76,4 +76,4 @@ const KevinMudenge = {
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kevinMudenge&show_icons=true&locale=en&&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/langs?username=kevinMudenge&show_icons=true&locale=en&&theme=tokyonight)
