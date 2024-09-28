@@ -4,13 +4,13 @@ I'm Kevin Mudenge.
 A Front End Web Developer | Aspiring Full Stack Developer from Kenya.
 
 ## About Me
-### I, Heart: Embracing Individuality in a World of Many
+### I, Heart.: Embracing Individuality in a World of Many
 
 What do you believe in? What drives you?
 
-I have a great passion in technology's impact to the world through web development, and its percularities. In addition to that, I enjoy designing websites, and bringing them to life as envisioned, as needed. This principle guides my approach to software development, focusing on user-centered design and user journeys ensuring that each project reflects the unique needs and experiences of its users.
+I have a deep passion on the impact of technology on the world, especially through web development and its unique intricacies. I also enjoy design, art and related works. Professionally I build and also partially design websites( primarilly focusing on user-centered design and user journeys) ensuring that each project after coding reflects the unique needs and experiences of its users: coding to solve a problem.
 
-For me, "heart" represents a deep commitment to solving the real world and I particularly enjoy working on solutions.
+Heart. represents a deep commitment to solving the real world.
 
 - 🌍 Working
 - 💼 Looking for: Front-end developer and/or related roles with a real-world impact.
@@ -35,6 +35,7 @@ const KevinMudenge = {
   iBelieve: [
     'Constant Improvement: Your best self can never be your current self',
     'There is loving what you do',
+    'There is good and you are a part of it',
   ],
 }
 ```
@@ -57,7 +58,7 @@ const KevinMudenge = {
 ## Fun facts
 - 🔭 I’m currently working on: My skill set as a Web Developer pushing the limits to what I can do and how well I can do it.
 - 🌱 I’m projecting learning: Back End Development and Integration within my future goals of being a Full Stack Web Developer.
-- 👯 I’m looking to collaborate on: User Centered Design projects around my current Front End Web Development skills with real-world practicality.
+- 👯 I’m looking to collaborate on: User Centered Design Projects around my current Front End Web Development skills with real-world practicality.
 - 🤔 Ask me about: Life and Software. Enthusiastic about life: the cultures, the people, their philosophies, peculiarities and ethical tech 😄
 
 ## GitHub Stats
