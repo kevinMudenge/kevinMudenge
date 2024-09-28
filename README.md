@@ -26,7 +26,7 @@ Heart. represents a deep commitment to solving the real world.
 
 ```javascript
 const KevinMudenge = {
-  currently into: "Web development" || "UI/UX Design" || "self",
+  currentlyInto: "Web development" || "UI/UX Design" || "self",
   pronouns: ["he", "him", "i"],
   code: ["JavaScript", "HTML/CSS"],
   challenge: [
