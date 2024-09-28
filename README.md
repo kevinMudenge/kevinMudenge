@@ -8,7 +8,7 @@ A Front End Web Developer | Aspiring Full Stack Developer from Kenya.
 
 What do you believe in? What drives you?
 
-I have a deep passion on the impact of technology on the world, especially through web development and its unique intricacies. I also enjoy design, art and related works. Professionally I build and also partially design websites( primarilly focusing on user-centered design and user journeys) ensuring that each project after coding reflects the unique needs and experiences of its users: coding to solve a problem.
+I have a deep passion on the impact of technology on the world, especially through web development and its unique intricacies. I also enjoy design, art and related works. Professionally I build and also partially design websites (primarilly focusing on user-centered design and user journeys) ensuring that each project after coding reflects the unique needs and experiences of its users: coding to solve a problem.
 
 Heart. represents a deep commitment to solving the real world.
 
