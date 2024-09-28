@@ -1,10 +1,11 @@
 # Hi there! 👋 
 I'm Kevin Mudenge.
 
-## About Me
-### I, Heart.: Embracing Individuality in a World of Many
 
-Front End Web Developer | Aspiring Full Stack Developer from Kenya.
+A Front End Web Developer | Aspiring Full Stack Developer from Kenya.
+
+## About Me
+### I, Heart. : Embracing Individuality in a World of Many
 
 What do you believe in? What drives you?
 
