@@ -70,4 +70,4 @@ const KevinMudenge = {
 <img src="https://streak-stats.demolab.com?user=kevinMudenge&theme=radical" height="150" alt="streaks graph" /> 
 
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!--<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />-->
