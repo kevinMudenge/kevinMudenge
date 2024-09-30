@@ -1,13 +1,15 @@
-## Hi there! 👋 
+## Hi! Alhamdulillah 👋 
 Front End Web Developer | Aspiring Full Stack Developer from Kenya.
 
 ### I, Heart. : Embracing Individuality in a World of Many
 
 What do you believe in? What drives you?
 
-I have a deep passion on the impact of technology on the world, especially through web development and its unique intricacies. I also enjoy design, art and related works. Professionally I build and also partially design websites (primarilly focusing on user-centered design and user journeys) to reflect the unique needs and experiences of its users: coding to solve a problem.
+I have a deep passion on the impact of technology on the world, especially through web development and its unique intricacies. I also enjoy design, art and related works. Professionally I build and also partially design websites (primarilly focusing on user-centered design and user journeys) looking to reflect the unique needs and experiences of its users: coding to solve a problem.
 
-Heart. represents a deep commitment to solving the real world.
+Heart. represents a deep commitment to solving the real world. 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+
 
 - 🌍 Working
 - 💼 Front-end developer and/or related roles with a real-world impact.
@@ -24,7 +26,7 @@ const KevinMudenge = {
   iBelieve: [
     'Constant Improvement: Your best self can never be your current self',
     'There is loving what you do',
-    'There is good and you are a part of it',
+    'There is good in this world and you are a part of it',
   ],
 }
 ```
@@ -62,3 +64,7 @@ const KevinMudenge = {
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kevinMudenge&show_icons=true&locale=en&&theme=tokyonight)
+
+---
+
+<img src="https://streak-stats.demolab.com?user=kevinMudenge&theme=radical" height="150" alt="streaks graph" />
