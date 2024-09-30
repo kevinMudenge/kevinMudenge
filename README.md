@@ -1,7 +1,6 @@
-# Hi there! 👋 
+## Hi there! 👋 
 Front End Web Developer | Aspiring Full Stack Developer from Kenya.
 
-## About Me
 ### I, Heart. : Embracing Individuality in a World of Many
 
 What do you believe in? What drives you?
@@ -13,13 +12,12 @@ Heart. represents a deep commitment to solving the real world.
 - 🌍 Working
 - 💼 Front-end developer and/or related roles with a real-world impact.
 
-## My Tech Stack
+### My Tech Stack
 
 ```javascript
 const KevinMudenge = {
   currentlyInto: "Web development" || "UI/UX Design" || "self",
   pronouns: ["he", "him", "i"],
-  code: ["JavaScript", "HTML/CSS"],
   challenge: [
     "Extreme mastery in my field. Is there something i don't know? I want it. Is there a better way? Point it.",
   ],
@@ -31,14 +29,14 @@ const KevinMudenge = {
 }
 ```
 
-### Languages and Frameworks I use
+#### Languages and Frameworks I use
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools and Software I use
+#### Tools and Software I use
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -51,7 +49,7 @@ const KevinMudenge = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudengekevn254@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinMudenge/)
 
-## Fun facts
+### Fun facts
 - 🔭 I’m currently working on: My skill set as a Web Developer pushing the limits to what I can do and how well I can do it.
 - 🌱 I’m projecting learning: Back End Development and Integration within my future goals of being a Full Stack Web Developer.
 - 👯 I’m looking to collaborate on: User Centered Design Projects around my current Front End Web Development skills with real-world practicality.
