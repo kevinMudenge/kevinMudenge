@@ -18,10 +18,10 @@ Heart. represents a deep commitment to solving the real world.
 
 ```javascript
 const KevinMudenge = {
-  currentlyInto: "Web development" || "UI/UX Design" || "self",
+  currentlyInto: "Web development" || "UI/UX Design" || "Freelance Website Projects",
   pronouns: ["he", "him", "i"],
   challenge: [
-    "Extreme mastery in my field. Is there something i don't know? I want it. Is there a better way? Point it.",
+    "Extreme mastery in my field. I want it. Point it.",
   ],
   iBelieve: [
     'Constant Improvement: Your best self can never be your current self',
@@ -53,7 +53,7 @@ const KevinMudenge = {
 
 ### Fun facts
 - 🔭 I’m currently working on: My skill set as a Web Developer pushing the limits to what I can do and how well I can do it.
-- 🌱 I’m projecting learning: Back End Development and Integration within my future goals of being a Full Stack Web Developer.
+- 🌱 I’m projecting learning: Back End Development and Full Stack Web Development.
 - 👯 I’m looking to collaborate on: User Centered Design Projects around my current Front End Web Development skills with real-world practicality.
 - 🤔 Ask me about: Life and Software. Enthusiastic about life: the cultures, the people, their philosophies, peculiarities and ethical tech 😄
 
