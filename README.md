@@ -53,7 +53,7 @@ const KevinMudenge = {
 
 ### Fun facts
 - 🔭 I’m currently working on: My skill set as a Web Developer pushing the limits to what I can do and how well I can do it.
-- 🌱 I’m projecting learning: Back End Development and Full Stack Web Development.
+- 🌱 I’m projecting learning: Back End Development.
 - 👯 I’m looking to collaborate on: User Centered Design Projects around my current Front End Web Development skills with real-world practicality.
 - 🤔 Ask me about: Life and Software. Enthusiastic about life: the cultures, the people, their philosophies, peculiarities and ethical tech 😄
 
